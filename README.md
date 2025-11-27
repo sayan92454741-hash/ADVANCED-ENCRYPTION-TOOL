@@ -26,6 +26,6 @@ The tool includes a complete Graphical User Interface (GUI) built with Tkinter. 
 
 To improve reliability, the program also includes file-lock detection, especially for environments where files may be locked by cloud-sync services like OneDrive, or opened in applications such as Word or Excel. If a file is locked or unavailable, the tool detects the issue and informs the user with a clear message instead of crashing.
 
-# OUTPUT
-
 Overall, this project demonstrates a practical implementation of advanced cryptography, secure key management, and user-friendly design. The result is a dependable desktop application suitable for students, professionals, and organizations who need a simple yet powerful way to protect sensitive files using strong, modern encryption techniques.
+
+# OUTPUT
