@@ -29,3 +29,4 @@ To improve reliability, the program also includes file-lock detection, especiall
 Overall, this project demonstrates a practical implementation of advanced cryptography, secure key management, and user-friendly design. The result is a dependable desktop application suitable for students, professionals, and organizations who need a simple yet powerful way to protect sensitive files using strong, modern encryption techniques.
 
 # OUTPUT
+<img width="748" height="596" alt="Image" src="https://github.com/user-attachments/assets/27dd88f6-7d8d-46a4-b472-643867d67329" />
